@@ -1,6 +1,6 @@
 # PolicyConversion
 A tool to convert Oracle Access Manager policies to OpenAM policies
-Summary
+##Summary
 
 The PolicyConversion tool reads policies exported from Oracle Access Manager (OAM) and converts them to XACML 3.0 format, which can then be imported to an OpenAM instance. The tool can be particularly useful for organizations who are planning to switch from OAM to OpenAM and wish to automate the migration process. 
 
